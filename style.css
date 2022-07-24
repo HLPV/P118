@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+}
+
+#P{
+    float: left;
+}
+
+#T{
+    float:right;
+}
+
+canvas{
+    border: 10px solid black;
+    
+}
